@@ -1,2 +1,2 @@
 # codility
-Codility Lessons
+The repo has Codility Lessons's solutions
