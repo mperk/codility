@@ -7,13 +7,13 @@ function solution(X, A) {
         const e = A[i];
         if(b.indexOf(e) < 0 && A[i] <= X){
             sum += e;
+            if(sum === total){
+                return i;
+            }else if(sum>total){
+                return -1;
+            }
+            b.push(e);
         }
-        if(sum === total){
-            return i;
-        }else if(sum>total){
-            return -1;
-        }
-        b.push(e);
     }
     return -1
 }
