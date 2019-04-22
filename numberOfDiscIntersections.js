@@ -44,6 +44,7 @@ function solution(A){
                     count++;
             }
         }
+        if(count > 10000000) return -1;
     }
     return count;
 }
