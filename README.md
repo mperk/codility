@@ -2,10 +2,7 @@
 
 The repo has Codility Lessons's solutions with Javascript
 
-You can see all lessons:
-
-https://app.codility.com/programmers/lessons/1-iterations/
-
+You can see all lessons [**here**](https://app.codility.com/programmers/lessons/1-iterations/)
 
 [**permMissingElement**](/permMissingElement.js)
 
@@ -13,9 +10,9 @@ https://app.codility.com/programmers/lessons/1-iterations/
 
 [**frogRiverOne**](/frogRiverOne.js)
 
-[**MaxCounters**](/MaxCounters.js)
+[**maxCounters**](/maxCounters.js)
 
-[**missinInteger**](/missinInteger.js)
+[**missingInteger**](/missingInteger.js)
 
 [**passingCars**](/passingCars.js)
 
@@ -33,3 +30,8 @@ https://app.codility.com/programmers/lessons/1-iterations/
 
 [**brackets**](/brackets.js)
 
+[**maxProductOfThree**](/maxProductOfThree.js)
+
+[**numberOfCarry**](/numberOfCarry.js)
+
+[**fish**](/fish.js)
