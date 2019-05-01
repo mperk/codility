@@ -35,3 +35,7 @@ You can see all lessons [**here**](https://app.codility.com/programmers/lessons/
 [**numberOfCarry**](/numberOfCarry.js)
 
 [**fish**](/fish.js)
+
+[**nesting**](/nesting.js)
+
+[**dominator**](/dominator.js)
