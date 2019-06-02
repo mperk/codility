@@ -32,11 +32,16 @@
 
 console.log(solution(24));
 function solution(N){
+    let i = 1
     let count = 0
-    for (let i = 1; i <= N; i++) {
-        if((N % i) === 0){
-            count = count+1;
+    while( i < Math.sqrt(N)){
+        if( N % i === 0){
+            count += 2;
         }
+        i++;
     }
-    return count;
+    if(Math.pow(i, 2) === N){
+        count += 1;
+    }
+    return count
 }
