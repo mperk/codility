@@ -24,8 +24,9 @@
 
 console.log(solution(30));
 function solution(N){
-    let minPerimeter = 1000000000
-    for (let i = 1; i <= N; i++) {
+    let minPerimeter = (1 + N) * 2
+    const sqrt = Math.sqrt(N)
+    for (let i = Math.floor(sqrt); i >= 1 ; i--) {
         if(N % i === 0){
             const division = N / i
             const tempPerimeter = (i + division) * 2
