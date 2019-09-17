@@ -40,13 +40,13 @@
 // each element of array A is an integer within the range [−1,000,000,000..1,000,000,000].
 
 
-console.log(solution([4,3,4,4,4,2]));
+console.log(solution([4,3,4,1,4,2,4,3,4,3,4]));
 function solution(A){
     let count = 0;
     for (let i = 1; i < A.length; i++) {
         let first = findLeader(A.slice(0,i));
         let second = findLeader(A.slice(i, A.length));
-        if(first === second && first !== undefined){
+        if(first === second && first !== undefined && first !== 0){
             count = count + 1;
         }
     }

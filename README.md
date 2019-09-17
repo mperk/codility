@@ -39,3 +39,9 @@ You can see all lessons [**here**](https://app.codility.com/programmers/lessons/
 [**nesting**](/nesting.js)
 
 [**dominator**](/dominator.js)
+
+[**maxSliceSum**](/maxSliceSum.js)
+
+[**maxProfit**](/maxProfit.js)
+
+[**maxDoubleSliceSum**](/maxDoubleSliceSum.js)
