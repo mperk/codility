@@ -1,6 +1,8 @@
-# codility solutions Javascript
+# codility solutions with Javascript and c#
 
-The repo has Codility Lessons's solutions with Javascript
+The repo has Codility Lessons's solutions with Javascript and c#
+
+Javascript solutions:
 
 You can see all lessons [**here**](https://app.codility.com/programmers/lessons/1-iterations/)
 
