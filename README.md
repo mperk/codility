@@ -2,7 +2,10 @@
 
 The repo has Codility Lessons's solutions with Javascript and c#
 
-Javascript solutions:
+*.js is Javascript solutions
+*.md is C# solutions
+
+Javascript solutions links:
 
 You can see all lessons [**here**](https://app.codility.com/programmers/lessons/1-iterations/)
 
